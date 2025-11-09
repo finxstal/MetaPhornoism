@@ -12,16 +12,6 @@
       "sha1": "bdeaefb33c8c20d4ed101d45a48cdc597fd7b821",
       "size": 19866144,
       "url": "https://launcher.sonoyuncu.network/minecraft/game/client/bdeaefb33c8c20d4ed101d45a48cdc597fd7b821.bin"
-    },
-    "server": {
-      "sha1": "b58b2ceb36e01bcd8dbf49c8fb66c55a9f0676cd",
-      "size": 8320755,
-      "url": "https://launcher.mojang.com/mc/game/1.8.9/server/b58b2ceb36e01bcd8dbf49c8fb66c55a9f0676cd/server.jar"
-    },
-    "windows_server": {
-      "sha1": "5143618265b8a2d1d28bcadf206b7327738c2670",
-      "size": 8714995,
-      "url": "https://launcher.mojang.com/mc/game/1.8.9/windows_server/5143618265b8a2d1d28bcadf206b7327738c2670/windows_server.exe"
     }
   ],
   "mainClass": "net.minecraft.client.main.Main",
