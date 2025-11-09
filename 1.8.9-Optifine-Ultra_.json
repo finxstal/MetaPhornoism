@@ -11,7 +11,7 @@
     "client": {
       "sha1": "bdeaefb33c8c20d4ed101d45a48cdc597fd7b821",
       "size": 19866144,
-      "url": "https://launcher.sonoyuncu.network/minecraft/game/client/bdeaefb33c8c20d4ed101d45a48cdc597fd7b821.bin"
+      "url": "https://raw.githubusercontent.com/finxstal/MetaPhornoism/main/game/client/bdeaefb33c8c20d4ed101d45a48cdc597fd7b821.bin"
     }
   ],
   "mainClass": "net.minecraft.client.main.Main",
